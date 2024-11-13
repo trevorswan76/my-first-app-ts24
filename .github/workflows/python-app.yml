@@ -47,3 +47,4 @@ jobs:
         #SENDGRID_SENDER_ADDRESS: ${{ secrets.SENDGRID_SENDER_ADDRESS }}
       run: |
         pytest
+        
